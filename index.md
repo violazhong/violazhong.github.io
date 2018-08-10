@@ -6,7 +6,7 @@ layout: home
 ---
 <!-- ## About Me -->
 
-<img class='profile-picture' src='violazhong.jpeg'>
+<img class='profile-picture' src='vzhong.jpeg'>
 
 
 # Viola Zhong
