@@ -23,7 +23,7 @@ github_username: violazhong
 
 # Build settings
 markdown: kramdown
-theme: rosario/kasper
+theme: minimal
 plugins:
   - jekyll-feed
 
