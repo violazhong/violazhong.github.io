@@ -17,9 +17,9 @@ title: Viola Zhong
 
 description: A blog on fairness machine learning and other things by Viola Zhong.
 
-url:"http://www.violazhong.com"
+url: "http://www.violazhong.com"
 
-github_username:violazhong
+github_username: violazhong
 
 # Build settings
 markdown: kramdown
