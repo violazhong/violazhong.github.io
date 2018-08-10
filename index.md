@@ -6,12 +6,12 @@ layout: home
 ---
 <!-- ## About Me -->
 
-<img class='profile-picture' src='violaz.jpeg'>
+<img class='profile-picture' src='vzhong.jpeg'>
 
 
 ### I'm a technology fellow currently at New York City Commission on Human Rights. My research focuses on fairness in machine learning, and algorithm accountability. I'm also very interested in the housing issue in New York City.
 
-### As you might find out, this website is still kind of in the nutshell. Github page is great, I'll catch up.
+### As you might find out, this website is still kind of in the nutshell. I'll catch up and upload some of my projects. 
 ### You can contact me via my github: github.com/violazhong. Thanks.
 
 
