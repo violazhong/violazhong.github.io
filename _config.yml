@@ -14,10 +14,11 @@
 
 # basic information
 title: Viola Zhong
-description: >
-	A blog on fairness machine learning and other things by Viola Zhong.
-	You don't need to follow my twitter, not yet.
+
+description: A blog on fairness machine learning and other things by Viola Zhong.
+
 url:"http://www.violazhong.com"
+
 github_username:violazhong
 
 # Build settings
