@@ -14,7 +14,7 @@ You can email me via: xz1809 [at] nyu [at] edu.
 
 ## My Projects
 1. Can Machine Be Taught that Emily and Greg are more employable than Lakisha and Jamal? 
-2. Reassessing COMPAS Recividism Algorithm Bias in Florida: A Comparison Study with ProPublica
+2. Reassessing COMPAS Recividism Algorithm Bias: A Comparison Study with ProPublica
 3. Piercing the New York City Landlord Corporate Veil
 4. New York City Property Tax Inequality Between the Rich and the Poor
 
