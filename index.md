@@ -6,7 +6,7 @@ layout: home
 ---
 <!-- ## About Me -->
 
-<img class='profile-picture' src='violazhong.jpeg' width="215" height="300">
+<img class='profile-picture' src='violazhong.jpeg' width="225" height="300">
 
 
 ### I'm a technology fellow at New York City Commission on Human Rights. My research focuses on fairness in machine learning, and algorithm accountability. I'm also very interested in the housing issue in New York City.
