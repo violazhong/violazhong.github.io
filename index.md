@@ -10,7 +10,7 @@ title: Viola Zhong
 
 I'm a technology fellow at [New York City Commission on Human Rights (NYCCHR)](https://www1.nyc.gov/site/cchr/index.page). My research focuses on algorithmic fairness. Before NYCCHR, I acquired my master degree of Urban Informatics in [Center for Urban Progress and Science](http://cusp.nyu.edu/), [New York University](https://www.nyu.edu/). Prior to NYU, I worked as a marketing manager for [a technology startup](https://www.chinatravelnews.com/article/95549) in China.
 
-You can email me via: xz1809 [at] nyu [at] edu. 
+You can email me via: xz1809 [at] nyu [dot] edu. 
 
 ## My Projects
 1. Can Machine Be Taught that Emily and Greg are more employable than Lakisha and Jamal? 
