@@ -10,8 +10,6 @@ I am a technology fellow at [New York City Commission on Human Rights (CCHR)](ht
 
 Before CCHR, I was in [NYU](https://www.nyu.edu/) [CUSP](http://cusp.nyu.edu/) for my master degree in [Urban Informatics](https://en.wikipedia.org/wiki/Urban_informatics). Prior to NYU, I worked as a product marketing manager for [a technology startup](https://www.chinatravelnews.com/article/95549) in Hangzhou, China.
 
-After one year research, I'm invited to present a tutorial about my understanding towards issues arised by algorithmic-based tenant screening tools at [ACM FAT 2019](https://fatconference.org/index.html). 
-
 You can email me via: xz1809 [at] nyu [dot] edu. 
 
 ## External Communication 
