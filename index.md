@@ -20,7 +20,7 @@ If you have questions based on whatever I mentioned in this page, you are welcom
 * Sep '18: I was invited to present a tutorial about issues arised by algorithm-based tenant screening tools at [ACM FAT 2019](https://fatconference.org/index.html). 
 * Jun '18: I joined a panel dicussing AI Ethics at [Mechanism for Social Good](http://www.md4sg.com/), [ACM EC'18](http://www.sigecom.org/ec18/).
 
-## What is Algorithmic Fairness
+## Algorithmic Fairness and My Own Important Conclusions
 I'll add some of my favorite papers in this domain. 
 
 ## Projects
