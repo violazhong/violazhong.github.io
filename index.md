@@ -8,7 +8,7 @@ title: Viola Zhong
 
 I am a technology fellow at [New York City Commission on Human Rights (CCHR)](https://www1.nyc.gov/site/cchr/index.page) & [Media Democracy Fund](http://mediademocracyfund.org/). My fellowship research specifically focuses on topics arised by algorithmic tools in housing, and a nascent intersection between law and tech, which is called "Algorithmic Fairness". 
 
-Before CCHR, I was in [New York University](https://www.nyu.edu/), [CUSP](http://cusp.nyu.edu/) for my MSc in [Urban Informatics](https://en.wikipedia.org/wiki/Urban_informatics). Prior to NYU, I worked as a product marketing manager for [a technology startup](https://www.chinatravelnews.com/article/95549) in China.
+Before CCHR, I was in [New York University](https://www.nyu.edu/), [Center for Urban Science and Progress](http://cusp.nyu.edu/) for my MSc in [Urban Informatics](https://en.wikipedia.org/wiki/Urban_informatics). Prior to NYU, I worked as a product marketing manager for [a technology startup](https://www.chinatravelnews.com/article/95549) in China.
 
 After one year research, I'm invited to present a tutorial about my understanding towards issues arised by algorithmic-based tenant screening tools at [ACM FAT 2019](https://fatconference.org/index.html). 
 
