@@ -15,7 +15,7 @@ Before CCHR, I was in [NYU](https://www.nyu.edu/) [CUSP](http://cusp.nyu.edu/) f
 If you have questions based on whatever I mentioned in this page, you are welcomed to email me via: xz1809 [at] nyu [dot] edu.
 
 ## Research Outreach 
-* Dec '18: I became the member of NYC Housing Data Coalition, where a group of civic hackers discuss data-driven projects to help tenants under the relentless impacts of NYC gentrification.
+* Dec '18: I became the member of NYC Housing Data Coalition, where a group of civic hackers discuss data-driven projects to help tenants under the impact of NYC gentrification.
 * Oct '18: I became the member of a national housing lawyers eviction records workgroup headed by [Eric Dunn, ACLU](https://www.nhlp.org/about/staff/).
 * Sep '18: I was invited to present a tutorial about issues arised by algorithm-based tenant screening tools at [ACM FAT 2019](https://fatconference.org/index.html). 
 * Jun '18: I joined a panel dicussing AI Ethics at [Mechanism for Social Good](http://www.md4sg.com/), [ACM EC'18](http://www.sigecom.org/ec18/).
