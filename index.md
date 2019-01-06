@@ -12,21 +12,11 @@ Before CCHR, I was in [NYU](https://www.nyu.edu/) [CUSP](http://cusp.nyu.edu/) f
 
 You can email me via: xz1809 [at] nyu [dot] edu. 
 
-## External Communication 
-* Dec '18: I became the member of NYC Housing Data Coalition, where a group of civic hackers discuss data-driven projects to help tenants under the relentless impacts of city gentrification.
+## Research Outreach 
+* Dec '18: I became the member of NYC Housing Data Coalition, where a group of civic hackers discuss data-driven projects to help tenants under the relentless impacts of New York City gentrification.
 * Oct '18: I became the member of a national housing lawyers eviction records workgroup headed by [Eric Dunn, ACLU](https://www.nhlp.org/about/staff/).
 * Sep '18: I was invited to present a tutorial about issues arised by algorithm-based tenant screening tools at [ACM FAT 2019](https://fatconference.org/index.html). 
 * Jun '18: I joined a panel dicussing AI Ethics at [Mechanism for Social Good](http://www.md4sg.com/), [ACM EC'18](http://www.sigecom.org/ec18/).
-
-## About My Projects
-1. Can Machine Be Taught that Emily and Greg are more employable than Lakisha and Jamal? 
-2. Reassessing COMPAS Recividism Algorithm Bias: A Comparison Study with ProPublica
-3. Piercing the New York City Landlord Corporate Veil
-4. New York City Property Tax Inequality Between the Rich and the Poor
-
-Project 1 & 2 are the test case prjects I created for deepening my understanding about technical domain 'Fair Machine Learning'. My interests also include testing fairness-awared open-source packages. 
-
-Project 3 & 4 are all highly relevant to my understanding and analysis towards NYC property. The project 3 is a proprietary one for NYS OAG, but I'm glad to post more about the project 4.
 
 ## About Algorithmic Fairness
 I'll add some of my favorite papers in this domain. 
