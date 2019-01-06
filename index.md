@@ -6,13 +6,15 @@ title: Viola Zhong
 
 <img class='profile-picture' src='violazhong.jpeg' align="right" width="225" height="300">
 
-# About Me
+## About Me
 
 I am a technology fellow at [New York City Commission on Human Rights (CCHR)](https://www1.nyc.gov/site/cchr/index.page) & [Media Democracy Fund](http://mediademocracyfund.org/). My fellowship research focuses on "Algorithmic Fairness", a nascent intersection between law and tech, and its application in housing.
 
 Before CCHR, I was in [NYU](https://www.nyu.edu/) [CUSP](http://cusp.nyu.edu/) for my master degree in [Urban Informatics](https://en.wikipedia.org/wiki/Urban_informatics). Prior to NYU, I worked as a product marketing manager for [a technology startup](https://www.chinatravelnews.com/article/95549) in Hangzhou, China.
 
 You can email me via: xz1809 [at] nyu [dot] edu. 
+
+-----
 
 ## Research Outreach 
 * Dec '18: I became the member of NYC Housing Data Coalition, where a group of civic hackers discuss data-driven projects to help tenants under the relentless impacts of New York City gentrification.
