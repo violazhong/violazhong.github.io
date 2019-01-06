@@ -13,10 +13,10 @@ Before CCHR, I was in [NYU](https://www.nyu.edu/) [CUSP](http://cusp.nyu.edu/) f
 You can email me via: xz1809 [at] nyu [dot] edu. 
 
 ## External Communication 
-* Dec '18: I became the member of NYC Housing Data Coalition, which is a group of civic hackers who discuss possible data-driven projects to help tenants deal with negligent landlords.
+* Dec '18: I became the member of NYC Housing Data Coalition, a group of civic hackers who discuss possible data-driven projects to help tenants under the impacts of gentrification.
 * Oct '18: I became the member of a national housing lawyers eviction records workgroup headed by [Eric Dunn, ACLU](https://www.nhlp.org/about/staff/).
 * Sep '18: I was invited to present a tutorial about issues arised by algorithm-based tenant screening tools at [ACM FAT 2019](https://fatconference.org/index.html). 
-* Jun '18: I joined a panel dicussing AI Ethics at [Mechanism for Social Good](http://www.md4sg.com/), [ACM EC'18](http://www.sigecom.org/ec18/) at Cornell.
+* Jun '18: I joined a panel dicussing AI Ethics at [Mechanism for Social Good](http://www.md4sg.com/), [ACM EC'18](http://www.sigecom.org/ec18/).
 
 ## About My Projects
 1. Can Machine Be Taught that Emily and Greg are more employable than Lakisha and Jamal? 
