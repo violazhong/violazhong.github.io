@@ -14,6 +14,12 @@ After one year research, I'm invited to present a tutorial about my understandin
 
 You can email me via: xz1809 [at] nyu [dot] edu. 
 
+## External Communication 
+* Dec '18: I became the member of NYC Housing Data Coalition, which is a group of civic hackers who discuss possible data-driven projects to help tenants deal with negligent landlords.
+* Oct '18: I became the member of a national housing lawyers eviction records workgroup headed by [Eric Dunn, ACLU](https://www.nhlp.org/about/staff/).
+* Sep '18: I was invited to present a tutorial about issues arised by algorithm-based tenant screening tools at [ACM FAT 2019](https://fatconference.org/index.html). 
+* Jun '18: I joined a panel dicussing AI Ethics at [Mechanism for Social Good](http://www.md4sg.com/), [ACM EC'18](http://www.sigecom.org/ec18/) at Cornell.
+
 ## About My Projects
 1. Can Machine Be Taught that Emily and Greg are more employable than Lakisha and Jamal? 
 2. Reassessing COMPAS Recividism Algorithm Bias: A Comparison Study with ProPublica
