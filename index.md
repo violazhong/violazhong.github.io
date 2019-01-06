@@ -12,10 +12,7 @@ I am a technology fellow at [New York City Commission on Human Rights (CCHR)](ht
 
 Before CCHR, I was in [NYU](https://www.nyu.edu/) [CUSP](http://cusp.nyu.edu/) for my master degree in [Urban Informatics](https://en.wikipedia.org/wiki/Urban_informatics). Prior to NYU, I worked as a product marketing manager for [a technology startup](https://www.chinatravelnews.com/article/95549) in Hangzhou, China.
 
-You are welcomed to email me (via: xz1809 [at] nyu [dot] edu) regarding any questions you have on my research or people/seminar/conference I mentione, I will be glad to make you an introduction. 
-
-
-
+If you have questions on my research or people/seminar/conference I mentioned, you are welcomed to email me via: xz1809 [at] nyu [dot] edu.
 
 ## Research Outreach 
 * Dec '18: I became the member of NYC Housing Data Coalition, where a group of civic hackers discuss data-driven projects to help tenants under the relentless impacts of New York City gentrification.
