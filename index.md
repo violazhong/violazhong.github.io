@@ -19,19 +19,14 @@ If you have questions based on whatever I mentioned in this page, you are welcom
 * Oct '18: I was invited to join a national housing lawyers eviction records workgroup headed by [Eric Dunn, ACLU](https://www.nhlp.org/about/staff/). 
 * Sep '18: I was invited to present a tutorial about issues arised by algorithm-based tenant screening tools at [ACM FAT 2019](https://fatconference.org/index.html). 
 * Jun '18: I was in a panel dicussing AI Ethics at [Mechanism for Social Good](http://www.md4sg.com/), [ACM EC'18](http://www.sigecom.org/ec18/).
+* Apr '18: I became the member of [Privacy Research Group](http://www.law.nyu.edu/centers/ili/privacy_research_group), [Information Law Insitute](http://www.law.nyu.edu/centers/ili), [NYU School of Law](http://www.law.nyu.edu/). 
 
 ## Algorithmic Fairness 
-The increasing use of [algorithmic predictions](https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html) to guide socioeconomic decisions has arised a concern: they might inadvertently discriminate certain groups, since the algorithm is polluted by data tinged with historical discrimination and stereotypes. And this arguement is not specific to machine learning.
+The increasing use of [algorithmic predictions](https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html) to guide socioeconomic decisions has arised a concern: they might inadvertently discriminate certain groups, since the algorithm is polluted by data tinged with historical discrimination and stereotypes. This is not specific to machine learning. 
 
 
 
-## Projects
-
-## Seminars
-
-## Papers 
-
-## Resources 
+# (## Projects ## Seminars ## Papers ## Resources)
 
 
 
