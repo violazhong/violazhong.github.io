@@ -27,7 +27,7 @@ I started to work extensively with [NYC Open Data](https://opendata.cityofnewyor
 #### **New York City's Property Tax Inequality Between the Rich and the Poor**
 This project was inspired by [this article](https://www.citylab.com/equity/2015/05/why-billionaires-dont-pay-property-taxes-in-new-york/389886/) saying that some luxury residential buildings are paying extremely low effective property tax rate. Since the property tax rate is strictly based on property class ([only four of them in NYC](https://www1.nyc.gov/site/finance/taxes/property-tax-rates.page)), it could be the fuss in the property value assessment model (PVAM) used by DOF(Department of Finance).
 
-Due to the richness of geo-diffenrences, it is hard to evaluate PVAM directly. But given that location plays dominantly in PVAM and the intentional deviation between the assessed value and the market price, I used Moran's I to evaluate PVAM's spatial consistency. The global Moran's I for Manhattan is 0.58, which means a mild positive auto-correlation. The github repository is [here](https://github.com/violazhong/NYC_Property_Tax).
+Due to the richness of geo-diffenrences, it is hard to evaluate PVAM directly. While 'location' plays dominantly in PVAM, and the intentional deviation between the assessed value and the market price, I used Moran's I to evaluate PVAM's spatial consistency. The global Moran's I for Manhattan is 0.58, which means a mild positive auto-correlation. The github repository is [here](https://github.com/violazhong/NYC_Property_Tax).
 
 #### **Piercing the New York City Landlord Corporate Veil** 
 
