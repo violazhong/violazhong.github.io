@@ -47,13 +47,13 @@ Solutions are discussed widely among technologists, policymakers and legal schol
 * A ready-to-use housing-related [database](https://github.com/aepyornis/nyc-db).
 
 #### **My Favorite Technical Papers on Algorithmic Fairness**
-* Algorithmic decision making and the cost of fairness (2017), [here](https://arxiv.org/abs/1701.08230).
-* Inherent Trade-Offs in the Fair Determination of Risk Scores (2016), [here](https://arxiv.org/abs/1609.05807).
-* Fairness Through Awareness (2011), [here](https://arxiv.org/abs/1104.3913).
-* Why Is My Classifier Discriminatory? (2018), [here](https://arxiv.org/abs/1805.12002).
-* The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning (2018), [here](https://arxiv.org/abs/1808.00023).
+* Algorithmic decision making and the cost of fairness [2017](https://arxiv.org/abs/1701.08230).
+* Inherent Trade-Offs in the Fair Determination of Risk Scores [2016](https://arxiv.org/abs/1609.05807).
+* Fairness Through Awareness [2011](https://arxiv.org/abs/1104.3913).
+* Why Is My Classifier Discriminatory? [2018](https://arxiv.org/abs/1805.12002).
+* The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning [2018](https://arxiv.org/abs/1808.00023).
 
-####### **Views are my own and don’t necessarily reflect those of my employers.**
+##### **Views are my own and don’t necessarily reflect those of my employers.**
 
 
 
