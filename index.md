@@ -8,7 +8,7 @@ title: Viola Zhong
 
 ## About Me
 
-I am a technology fellow at [New York City Commission on Human Rights (CCHR)](https://www1.nyc.gov/site/cchr/index.page) & [Media Democracy Fund](http://mediademocracyfund.org/). My fellowship research focuses on "Algorithmic Fairness", a nascent intersection between law and tech, and its application in housing.
+I am a technology fellow at [New York City Commission on Human Rights (CCHR)](https://www1.nyc.gov/site/cchr/index.page) & [Media Democracy Fund](http://mediademocracyfund.org/). My fellowship research focuses on "Algorithmic Fairness", a nascent intersection between tech and law, and its application in housing.
 
 Before CCHR, I was in [NYU](https://www.nyu.edu/) [CUSP](http://cusp.nyu.edu/) for my master degree in [Urban Informatics](https://en.wikipedia.org/wiki/Urban_informatics). Prior to NYU, I worked as a product marketing manager for [a technology startup](https://www.chinatravelnews.com/article/95549) in [Hangzhou, China](https://www.douban.com/people/songlet/photos).
 
@@ -23,6 +23,12 @@ If you have questions based on whatever I mentioned in this page, feel free to e
 
 ## Algorithmic Fairness 
 The increasing use of [algorithmic predictions](https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html) to guide socioeconomic decisions has arised a concern: they might inadvertently discriminate certain groups, since the algorithm is polluted by data tinged with historical discrimination and stereotypes. 
+
+Solutions are discussed widely among technologists, policymakers and legal scholars. According to "anti-classification", one of the anti-discrimination legal doctrines, protected class traits (such as: gender, race, etc.) should not be explicitly used in decision-making. Since so, it is natural for legal scholars to propose "blind the algorithm". Then, numerous studies (such as: data pre-processing, formulate quantitative fairness as constrait optimization, etc.) from the technology side were made to point out that the efforts should be more than "blind" due to things like "redundant encoding". 
+
+
+
+
 
 
 [//]: #  (## Projects ## Seminars ## Papers ## Resources)
