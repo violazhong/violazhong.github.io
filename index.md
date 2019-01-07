@@ -21,7 +21,9 @@ If you have questions based on whatever I mentioned in this page, you are welcom
 * Jun '18: I was in a panel dicussing AI Ethics at [Mechanism for Social Good](http://www.md4sg.com/), [ACM EC'18](http://www.sigecom.org/ec18/).
 
 ## Algorithmic Fairness 
-I'll add some of my favorite papers in this domain. 
+The increasing use of [algorithmic predictions](https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html) to guide socioeconomic decisions has arised a concern: they might inadvertently discriminate certain groups, since the algorithm is polluted by data tinged with historical discrimination and stereotypes. And this arguement is not specific to machine learning.
+
+
 
 ## Projects
 
