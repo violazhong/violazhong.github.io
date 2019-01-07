@@ -1,2 +1,1 @@
-# violazhong.github.io
-violazhong.com
+### Personal website introducing my research and projects
