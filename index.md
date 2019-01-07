@@ -26,7 +26,7 @@ The increasing use of [algorithmic predictions](https://www.nytimes.com/2018/02/
 
 
 
-# (## Projects ## Seminars ## Papers ## Resources)
+[//]: #  (## Projects ## Seminars ## Papers ## Resources)
 
 
 
