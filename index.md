@@ -22,12 +22,14 @@ If you have questions based on whatever I mentioned in this page, feel free to e
 * Apr '18: I joined [Privacy Research Group](http://www.law.nyu.edu/centers/ili/privacy_research_group), [Information Law Insitute](http://www.law.nyu.edu/centers/ili), [NYU School of Law](http://www.law.nyu.edu/). 
 
 ## The Housing Projects I made
-I started to work extensively with [NYC Open Data](https://opendata.cityofnewyork.us/) for housing-related projects since graduate school in 2016. But whether it is our property tax system or the rent-stabilized policy, I always find that it takes some introduction for people to understand what I do. 
+I started to work extensively with [NYC Open Data](https://opendata.cityofnewyork.us/) for housing-related projects since graduate school in 2016. Here are some briefs and explanations. 
+
+### New York City's Property Tax Inequality Between the Rich and the Poor
 
 ## About Algorithmic Fairness 
 The increasing use of [algorithmic predictions](https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html) to guide socioeconomic decisions has arised a concern: [they might inadvertently discriminate certain groups](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), since the algorithm is polluted by data tinged with historical discrimination and stereotypes.
 
-Solutions are discussed widely among technologists, policymakers and legal scholars. According to "[anti-classification](https://law.yale.edu/system/files/documents/pdf/Faculty/Siegel_TheAmericanCivilRightsTraditionAnticlassificationOrAntisubordination.pdf)", protected class traits (such as: gender, race) should not be explicitly used in decision-making. Legal scholars feel natural about proposing to "blind" the algorithm, while numerous technical studies (such as: data pre-processing, loss function modification) were also made to prove the effort needs to be more than "blinding". Now the debate still continues.
+Solutions are discussed widely among technologists, policymakers and legal scholars. According to "[anti-classification](https://law.yale.edu/system/files/documents/pdf/Faculty/Siegel_TheAmericanCivilRightsTraditionAnticlassificationOrAntisubordination.pdf)", protected class traits (such as: gender, race) should not be explicitly used in decision-making. Legal scholars feel natural about proposing to "blind" the algorithm, while numerous technical studies (such as: data pre-processing, loss function modification) are also made to prove the effort needs to be more than "blinding". Now the debate still continues.
 
 ## Resources 
 
