@@ -24,12 +24,12 @@ If you have questions based on whatever I mentioned in this page, feel free to e
 ## The Housing Projects I made
 I started to work extensively with [NYC Open Data](https://opendata.cityofnewyork.us/) for housing-related projects since graduate school in 2016. Here are some briefs and explanations. 
 
-#### * New York City's Property Tax Inequality Between the Rich and the Poor
+#### **New York City's Property Tax Inequality Between the Rich and the Poor**
 This project was inspired by [this article](https://www.citylab.com/equity/2015/05/why-billionaires-dont-pay-property-taxes-in-new-york/389886/) saying that some luxury residential buildings are paying extremely low effective property tax rate. Since the property tax rate is strictly based on property class ([only four of them in NYC](https://www1.nyc.gov/site/finance/taxes/property-tax-rates.page)), it could be the fuss in the property value assessment model (PVAM) used by DOF(Department of Finance).
 
 Due to the richness of geo-diffenrences, it is hard to evaluate PVAM directly. But given that location plays dominantly in PVAM and the intentional deviation between the assessed value and the market price, I used Moran's I to evaluate PVAM's spatial consistency. The global Moran's I for Manhattan is 0.58, which means a mild positive auto-correlation. If you are interested in my analysis, please check out the github repository [here](https://github.com/violazhong/NYC_Property_Tax).
 
-#### * Piercing the New York City Landlord Corporate Veil 
+#### **Piercing the New York City Landlord Corporate Veil** 
 
 ## About Algorithmic Fairness 
 The increasing use of [algorithmic predictions](https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html) to guide socioeconomic decisions has arised a concern: [they might inadvertently discriminate certain groups](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), since the algorithm is polluted by data tinged with historical discrimination and stereotypes.
