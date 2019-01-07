@@ -16,7 +16,7 @@ If you have questions based on whatever I mentioned in this page, feel free to e
 
 ## Research Outreach 
 * Dec '18: I was invited to become the member of [NYC Housing Data Coalition](https://www.housingdatanyc.org/) which delivers data-driven projects to help tenants in NYC.
-* Oct '18: I was invited to join a national housing lawyers eviction records workgroup headed by [Eric Dunn, ACLU](https://www.nhlp.org/about/staff/). 
+* Oct '18: I joined a national housing eviction records workgroup headed by [Eric Dunn, ACLU](https://www.nhlp.org/about/staff/). 
 * Sep '18: I was invited to present a tutorial about issues arised by algorithm-based tenant screening tools at [ACM FAT 2019](https://fatconference.org/index.html). 
 * Jun '18: I was in a panel dicussing AI Ethics at [Mechanism for Social Good](http://www.md4sg.com/), [ACM EC'18](http://www.sigecom.org/ec18/).
 * Apr '18: I joined [Privacy Research Group](http://www.law.nyu.edu/centers/ili/privacy_research_group), [Information Law Insitute](http://www.law.nyu.edu/centers/ili), [NYU School of Law](http://www.law.nyu.edu/). 
