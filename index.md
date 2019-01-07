@@ -32,10 +32,7 @@ Due to the richness of geo-diffenrences, it is hard to evaluate PVAM directly. W
 #### **Piercing the New York City Landlord Corporate Veil** 
 Due to the city's rent control and stabilization policy and also the displacement of low-income families, it is profitable for landlords to 'replace' their existing tenants with new comers who will pay higher rent. Some landlords offered buyouts, while the other harrassed and scared the tenant, sometimes with poor housing constructions. This phenomenon is now investigated by the New York State Office of Attorney General (NYS OAG). 
 
-Since most properties are owned by LLC rather than people, and the LLC registration requires little information, it is hard to find the true owner behind the LLC shell. Thus so, I used to participate to develop a web application which allows technical users to gain insights from 23 NYC open data sets. This project is proprietary, but here is [a similar one](https://whoownswhat.justfix.nyc/). 
-
-
-
+Since most properties are owned by LLC rather than people, and the LLC registration requires little information, it is hard to find the true owner behind the LLC shell. I used to collaborate with OAG to develop a web application which allows non-technical users to gain insights from 23 NYC open data sets. This project is proprietary, but here is [a similar one](https://whoownswhat.justfix.nyc/). 
 
 ## About Algorithmic Fairness 
 The increasing use of [algorithmic predictions](https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html) to guide socioeconomic decisions has arised a concern: [they might inadvertently discriminate certain groups](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), since the algorithm is polluted by data tinged with historical discrimination and stereotypes.
