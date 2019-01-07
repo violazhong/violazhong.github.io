@@ -42,7 +42,8 @@ Solutions are discussed widely among technologists, policymakers and legal schol
 ## Resources 
 
 #### **Useful NYC Housing Data Sets**
-* [Scraper](https://github.com/talos/nyc-stabilization-unit-counts/tree/master/notice-of-property-value-pdf) to extract property tax and rent stabilization unit from NoPV (Notice of Property Value) PDFs.
+* [A Scraper](https://github.com/talos/nyc-stabilization-unit-counts/tree/master/notice-of-property-value-pdf) can extract property tax notice and the rent stabilization unit from NoPV (Notice of Property Value) PDFs.
+* [A ready-to-use housing-related database](https://github.com/aepyornis/nyc-db) allows developers and researchers to make data-driven projects.
 
 
 
