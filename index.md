@@ -24,7 +24,7 @@ If you have questions based on whatever I mentioned in this page, feel free to e
 ## The Housing Projects I made
 I started to work extensively with [NYC Open Data](https://opendata.cityofnewyork.us/) for housing-related projects since graduate school in 2016. Here are some briefs and explanations. 
 
-### New York City's Property Tax Inequality Between the Rich and the Poor
+#### * New York City's Property Tax Inequality Between the Rich and the Poor
 
 ## About Algorithmic Fairness 
 The increasing use of [algorithmic predictions](https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html) to guide socioeconomic decisions has arised a concern: [they might inadvertently discriminate certain groups](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), since the algorithm is polluted by data tinged with historical discrimination and stereotypes.
