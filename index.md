@@ -42,10 +42,9 @@ Solutions are discussed widely among technologists, policymakers and legal schol
 ## Resources 
 
 #### **Useful NYC Housing Data Resources**
+* A well-explained [methodology](https://whoownswhat.justfix.nyc/how-it-works) about the data-driven landlord investigation.
 * A [Scraper](https://github.com/talos/nyc-stabilization-unit-counts/tree/master/notice-of-property-value-pdf) can extract property tax notice as CSV from NoPV (Notice of Property Value) PDFs.
 * A ready-to-use housing-related [database](https://github.com/aepyornis/nyc-db).
-* A well-explained [methodology](https://whoownswhat.justfix.nyc/how-it-works) about the data-driven landlord investigation.
-
 
 
 [//]: #  (## Projects ## Seminars ## Papers ## Resources)
