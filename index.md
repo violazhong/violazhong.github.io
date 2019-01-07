@@ -25,7 +25,7 @@ If you have questions based on whatever I mentioned in this page, feel free to e
 I started to work extensively with [NYC Open Data](https://opendata.cityofnewyork.us/) for housing-related projects since graduate school in 2016. Here are some briefs and explanations. 
 
 #### * New York City's Property Tax Inequality Between the Rich and the Poor
-This project's idea was inspired by [this article](https://www.citylab.com/equity/2015/05/why-billionaires-dont-pay-property-taxes-in-new-york/389886/) saying that some luxury residential buildings are paying extremely low effective property tax rate. Since the property tax rate is strictly based on the according property class ([only four of them in NYC](https://www1.nyc.gov/site/finance/taxes/property-tax-rates.page), I wondered whether it would be the fuss in the property assessment model that DOF(Department of Finance) uses to create the property tax base. 
+This project's idea was inspired by [this article](https://www.citylab.com/equity/2015/05/why-billionaires-dont-pay-property-taxes-in-new-york/389886/) saying that some luxury residential buildings are paying extremely low effective property tax rate. Since the property tax rate is strictly based on the according property class ([only four of them in NYC](https://www1.nyc.gov/site/finance/taxes/property-tax-rates.page)), I wondered whether it would be the fuss in the property value assessment model that DOF(Department of Finance). 
 
 #### * Piercing the New York City Landlord Corporate Veil 
 
