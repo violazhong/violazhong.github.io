@@ -21,7 +21,7 @@ I write code most of time. I also have no problem in things like: math, legal pa
 * “Framing Bias and Approaching Fairness in Algorithmic-based Screening Tools”, ACM FAT (2019).
 
 ## Contact
-xz1809 [at] nyu [dot] edu
+* xz1809 [at] nyu [dot] edu
 
 ##### ***Views are my own and don’t necessarily reflect those of my employers.***
 
