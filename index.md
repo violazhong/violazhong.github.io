@@ -13,7 +13,7 @@ I research in fair machine learning. My previous research is in the accoutabilit
 ## Experience
 I was educated in data science and economics, latestly in New York University. Before coming to US, I worked for a startup in China. After graduate school, I spent one year in fellowship research on algorithmic fairness. In these jobs, I worked directly with various entrepreneurs, auditors, lawyers, policymakers, researchers and engineers. 
 
-## Skill 
+## Expertise
 I write code most of time. I also have no problem in things like: math, legal papers, legal cases and financial statements. With a grip on this diverse skillset, I am good at understanding things from different and even opposing perspectives. Usually any multi-disciplinary environment or work will suit me nicely. Besides the day job, I am always open to joining exciting projects, so please free to contact me.
 
 ## Presentation
