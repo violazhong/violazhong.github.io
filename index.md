@@ -4,7 +4,7 @@
 ## About Me
 I research in fair machine learning. My previous work is the accoutability and fairness issue in tenant screening models and eviction records. Now I write code for [fairlearn](https://fairlearn.github.io/): a Python package to assess and improve fairness of machine learning models.
 
-## Education and Experience
+## Experience
 I was educated in data science and economics, latestly in New York University. Before coming to US, I worked for a startup in China. After graduate school, I spent one year in fellowship research on algorithmic fairness. In these jobs, I worked directly with various entrepreneurs, auditors, lawyers, policymakers, researchers and engineers. 
 
 ## Expertise
