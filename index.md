@@ -10,9 +10,9 @@ title: Viola Zhong
 
 I research in fair machine learning. I previously worked on: the accoutability & fairness issue in tenant screening tools & eviction records. Now I write code for [fairlearn](https://fairlearn.github.io/): a Python package to assess and improve fairness of machine learning models.
 
-I was educated in data science and economics, latestly in New York University. In my previous jobs, I worked directly with a varity of entrepreneurs, auditors, lawyers, policymakers, researchers and engineers. I write code most of time, and I have no problem in things like: math, legal papers, legal cases and financial statements. Having a grip on my diverse skillset, I usually will thrive in any multi-disciplinary environment. 
+I was educated in data science and economics, latestly in New York University. In my previous jobs, I worked directly with a varity of entrepreneurs, auditors, lawyers, policymakers, researchers and engineers. I write code most of time, and I have no problem in things like: math, legal papers, legal cases and financial statements. With a grip on this diverse skillset, I am mostly good at understanding things from very different perspectives. I usually thrive in any multi-disciplinary environment. 
 
-Besides my engineer day job, I am always open to joining exciting projects, so feel free to contact me: xz1809 [at] nyu [dot] edu. 
+Besides my day job, I am always open to joining exciting projects, so feel free to contact me: xz1809 [at] nyu [dot] edu. 
 
 
 ## Research Outreach
