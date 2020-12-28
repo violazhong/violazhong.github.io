@@ -1,8 +1,3 @@
----
-layout: default
-title: Viola Zhong
----
-<!-- ## About Me -->
 
 <img class='profile-picture' src='violazhong2019.jpeg' align="right" width="200" height="320">
 
