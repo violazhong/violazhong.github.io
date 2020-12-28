@@ -12,7 +12,7 @@ I research in fair machine learning. I previously worked on: the accoutability &
 
 I was educated in data science and economics, latestly in New York University. I used to work directly with a varity of entrepreneurs, auditors, lawyers, policymakers, researchers and engineers. Due to these various experiences, I could do math, write code, read legal paper/cases and financial statements. 
 
-Now I have an engineer day job, but always open to joining exciting projects, so feel free to contact me: xz1809 [at] nyu [dot] edu. 
+Besides my engineer day job, I am always open to joining exciting projects, so feel free to contact me: xz1809 [at] nyu [dot] edu. 
 
 
 ## Research Outreach
