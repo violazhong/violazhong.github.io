@@ -8,7 +8,7 @@ I research in fair machine learning. My previous work is the accoutability and f
 I was educated in data science and economics, latestly in New York University. Before coming to US, I worked for a startup in China. After graduate school, I spent one year in fellowship research on algorithmic fairness. In these jobs, I worked directly with various entrepreneurs, auditors, lawyers, policymakers, researchers and engineers. 
 
 ## Expertise
-I write code most of time. I also have no problem in things like: math, legal papers, legal cases and financial statements. With a grip on this diverse skillset, I am good at understanding things from different and even opposing perspectives. Usually any multi-disciplinary environment or work will suit me nicely. I am always open to joining exciting projects, so feel free to contact me.
+I write code most of time. I also have no problem in doing math and understanding legal papers, legal cases and financial statements. With a grip on this diverse skillset, I like understanding things from different perspectives such as law vs tech. Usually any interdisciplinary environment or work will suit me nicely. I am always open to joining exciting projects, so feel free to contact me.
 
 ## Presentation
 * “A New Proposed Rule for Disparate Impact in Housing,” Internet Law Works-in-Progress (2020).
