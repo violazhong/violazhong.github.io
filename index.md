@@ -14,10 +14,9 @@ I was educated in data science, economics and math. My latest educational affili
 
 
 ## Research Outreach
-* Affiliations: [Privacy Research Group](http://www.law.nyu.edu/centers/ili/privacy_research_group)
-* Presentations: 
-Invited speaker, “A New Proposed Rule for Disparate Impact in Housing,” Internet Law Works-in-Progress (2020).
-Invited speaker, “Framing Bias and Approaching Fairness in Algorithmic-based Screening Tools”, ACM FAccT (2019).
+* Affiliation: [Privacy Research Group](http://www.law.nyu.edu/centers/ili/privacy_research_group)
+* Invited speaker, “A New Proposed Rule for Disparate Impact in Housing,” Internet Law Works-in-Progress (2020).
+* Invited speaker, “Framing Bias and Approaching Fairness in Algorithmic-based Screening Tools”, ACM FAccT (2019).
 
 ##### ***Views are my own and don’t necessarily reflect those of my employers.***
 
