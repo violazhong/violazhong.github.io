@@ -4,7 +4,7 @@ title: Viola Zhong
 ---
 <!-- ## About Me -->
 
-<img class='profile-picture' src='violazhong2019.jpeg' align="right" width="193" height="300">
+<img class='profile-picture' src='violazhong2019.jpeg' align="right" width="194" height="300">
 
 ## About Me
 
