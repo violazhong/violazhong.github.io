@@ -8,7 +8,7 @@ title: Viola Zhong
 
 ## About me
 
-I research in fair machine learning. I previously worked on: the accoutability & fairness issue in tenant screening tools & eviction records. Now I write code for [fairlearn](https://fairlearn.github.io/): a Python package to assess and improve fairness of machine learning models.
+I research in fair machine learning. My previous research is in the accoutability and fairness issue in tenant algorithm-driven screening tools, and some issues in eviction records as well. Now I write code for [fairlearn](https://fairlearn.github.io/): a Python package to assess and improve fairness of machine learning models.
 
 ## My experience
 I was educated in data science and economics, latestly in New York University. Before coming to US, I worked for a startup in China. After graduate school, I spent one year in fellowship research on algorithmic fairness. In these jobs, I worked directly with various entrepreneurs, auditors, lawyers, policymakers, researchers and engineers. 
