@@ -8,13 +8,13 @@ title: Viola Zhong
 
 ## About me
 
-I research in fair machine learning. My previous research is in the accoutability and fairness issue in tenant algorithm-driven screening tools, and some issues in eviction records as well. Now I write code for [fairlearn](https://fairlearn.github.io/): a Python package to assess and improve fairness of machine learning models.
+I research in fair machine learning. My previous research is in the accoutability and fairness issue in tenant algorithm-driven screening tools and eviction records. Now I write code for [fairlearn](https://fairlearn.github.io/): a Python package to assess and improve fairness of machine learning models.
 
 ## My experience
 I was educated in data science and economics, latestly in New York University. Before coming to US, I worked for a startup in China. After graduate school, I spent one year in fellowship research on algorithmic fairness. In these jobs, I worked directly with various entrepreneurs, auditors, lawyers, policymakers, researchers and engineers. 
 
 ## What I could do
-I write code most of time. I also have no problem in things like: math, legal papers, legal cases and financial statements. With a grip on this diverse skillset, I am good at understanding things from different and even opposing perspectives. Usually any multi-disciplinary environment or work will suit me nicely. Besides the day job, I am always open to joining exciting projects. Contact me: xz1809 [at] nyu [dot] edu.
+I write code most of time. I also have no problem in things like: math, legal papers, legal cases and financial statements. With a grip on this diverse skillset, I am good at understanding things from different and even opposing perspectives. Usually any multi-disciplinary environment or work will suit me nicely. Besides the day job, I am always open to joining exciting projects, so please free to contact me: xz1809 [at] nyu [dot] edu.
 
 ## Research outreach
 * Affiliation: [Privacy Research Group](http://www.law.nyu.edu/centers/ili/privacy_research_group)
