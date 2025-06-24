@@ -1,0 +1,11 @@
+title: Viola Zhong
+
+# description: 
+
+url: "https://violazhong.github.io/"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
