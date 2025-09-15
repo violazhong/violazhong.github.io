@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm a software engineer based in New York. Before New York, I worked at a startup in Hangzhou. I moved to New York to study data science in NYU. After completing my studies, I spent a year as a research fellow focused on fairness in Machine Learning. My current research interests are: mechanistic interpretability, LLM hallucination. 
+I'm a software engineer based in New York. Before New York, I worked at a startup in Hangzhou. I moved to New York to study data science in NYU. After completing my studies, I spent a year as a research fellow focused on fairness in Machine Learning.
 
-I'm also a Guqinist, a Chinese calligrapher. At my leisure time, I enjoy cooking and spending time with my pets.
+I'm also a Guqinist, a Chinese calligrapher. When I'm not in front of a screen, I enjoy cooking and spending time with my pets.
 
 ## Contact
 - **GitHub:** [github.com/violazhong](https://github.com/violazhong)
