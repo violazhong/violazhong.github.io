@@ -7,6 +7,8 @@ I'm a software engineer based in New York. Before New York, I was part of the fo
 When I'm not in front a screen, I'm a [Guqinist](https://www.metmuseum.org/art/collection/search/500624), a [Chinese calligrapher](https://www.metmuseum.org/essays/chinese-calligraphy), and most importantly, the domestic leader of my pets. I enjoy cooking, hiking, pilates and yoga!
 
 ## My Work
+- [I and Thou: Turning the Mirror on the Machine](https://violazhong.github.io/i-and-thou-vector/)
+- [Llama2 Safety Evaluation Anatomy](https://violazhong.github.io/Llama2-safety-eval-anatomy/)
 - [LLM Hallucinations: An Internal Tug of War](https://violazhong.github.io/llm-hallucination-an-internal-tug-of-war/)
 
 ## Contact
