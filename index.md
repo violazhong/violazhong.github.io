@@ -2,11 +2,13 @@
 
 ## About Me
 
-I'm an indepedent AI safety researcher, also a software engineer based in New York. 
+I'm an AI safety researcher, a software engineer based in New York. 
 
-I engage with AI safety since 2018, spanning myself from AI policy to AI safety technical work. My research interests include how AI perceives its human user, and LLM hallucination. I make technical AI safety research using mechanistic interpretability. Back to my earlier days, I investigated ML-application in the tenent-screening industry, and forecasted [Arroyo v. CoreLogic (2018)](https://www.nhlp.org/our-initiatives/arroyo-v-corelogic/). My ML policy work was accepted by [ACM FAccT](https://facctconference.org/) 2019.
+I engage with AI safety since 2018, spanning from AI policy to AI safety technical work. My research focus is how AI perceives its human user, and I use mechanistic interpretability. I investigated ML-application in tenent-screening, and forecasted [Arroyo v. CoreLogic (2018)](https://www.nhlp.org/our-initiatives/arroyo-v-corelogic/). My ML policy work was accepted by [ACM FAccT](https://facctconference.org/) 2019.
 
-I'm particularly good at cross-domain pattern recognition and connecting dots that most didn't see. My best work has been constantly achieved by reframing an intractable problem into one with feasible solutions. I thrive in a lot of intellectual complexity and with execution autonomy. I'm actively looking for collaborators! I'd be happy to hear about your work as well, let's chat!
+I'm particularly good at cross-domain pattern recognition and connecting dots that most didn't see. My best work has been constantly achieved by reframing an intractable problem into one with feasible solutions. I thrive in a lot of intellectual complexity and with execution autonomy. 
+
+I'm actively looking for collaborators! I'd be happy to hear about your work, let's chat!
 
 ## Selected Work
 - [I and Thou: Turning the Mirror on the Machine](https://violazhong.github.io/i-and-thou-vector/)
