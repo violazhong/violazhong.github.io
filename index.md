@@ -11,9 +11,9 @@ I'm particularly good at cross-domain pattern recognition and connecting dots th
 I'm actively looking for collaborators! I'd be happy to hear about your work, let's chat!
 
 ## Selected Work
-- [I and Thou: Turning the Mirror on the Machine](https://violazhong.github.io/i-and-thou-vector/)
-- [Llama2 Safety Evaluation Anatomy](https://violazhong.github.io/Llama2-safety-eval-anatomy/)
-- [LLM Hallucinations: An Internal Tug of War](https://violazhong.github.io/llm-hallucination-an-internal-tug-of-war/)
+- [I and Thou: Turning the Mirror on the Machine](https://violazhong.github.io/i-and-thou-vector/) · Feb 2026
+- [Llama2 Safety Evaluation Anatomy](https://violazhong.github.io/Llama2-safety-eval-anatomy/) · Jan 2026
+- [LLM Hallucinations: An Internal Tug of War](https://violazhong.github.io/llm-hallucination-an-internal-tug-of-war/) · Aug 2025
 
 ## My Experience
 Before moving to the US, I was part of the founding product and marketing team at [Smart Order](https://www.smartorder.ai/) in Hangzhou, China. I moved to NY to study data science in [NYU CUSP](https://engineering.nyu.edu/research/centers/cusp). After that, I spent a year as a research fellow with the [New York City Commission On Human Rights](https://www.nyc.gov/site/cchr/index.page), focusing on AI policy and fairness in machine learning. I play [Guqin (a Chinese zither)](https://www.metmuseum.org/art/collection/search/500624). I also practise [Chinese calligraphy](https://www.metmuseum.org/essays/chinese-calligraphy).
