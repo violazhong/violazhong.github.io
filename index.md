@@ -12,7 +12,6 @@ I'm actively looking for collaborators! I'd be happy to hear about your work, le
 
 ## Selected Work
 - [I and Thou: Turning the Mirror on the Machine](https://violazhong.github.io/i-and-thou-vector/) · Feb 2026
-- [Llama2 Safety Evaluation Anatomy](https://violazhong.github.io/Llama2-safety-eval-anatomy/) · Jan 2026
 - [LLM Hallucinations: An Internal Tug of War](https://violazhong.github.io/llm-hallucination-an-internal-tug-of-war/) · Aug 2025
 
 ## My Experience
