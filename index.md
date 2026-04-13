@@ -4,7 +4,7 @@
 
 I'm an AI safety researcher, a software engineer based in New York. 
 
-I engage with AI safety since 2018, spanning from AI policy to AI safety technical work. My research focus is how AI perceives its human user, and I use mechanistic interpretability. I investigated ML-application in tenent-screening, and forecasted [Arroyo v. CoreLogic (2018)](https://www.nhlp.org/our-initiatives/arroyo-v-corelogic/). My ML policy work was accepted by [ACM FAccT](https://facctconference.org/) 2019.
+I engage with AI safety since 2018, spanning from AI policy to AI safety technical work. My research focus is how AI perceives its human user, and I use mechanistic interpretability. I investigated ML-application in tenant-screening, and forecasted [Arroyo v. CoreLogic (2018)](https://www.nhlp.org/our-initiatives/arroyo-v-corelogic/). My ML policy work was accepted by [ACM FAccT](https://facctconference.org/) 2019.
 
 I'm particularly good at cross-domain pattern recognition and connecting dots that most didn't see. My best work has been constantly achieved by reframing an intractable problem into one with feasible solutions. I thrive in a lot of intellectual complexity and with execution autonomy. 
 
