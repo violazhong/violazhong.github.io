@@ -19,7 +19,7 @@ I'm actively looking for collaborators! I'd be happy to hear about your work, le
 Before moving to the US, I was part of the founding product and marketing team at [Smart Order](https://www.smartorder.ai/) in Hangzhou, China. I moved to NY to study data science in [NYU CUSP](https://engineering.nyu.edu/research/centers/cusp). After that, I spent a year as a research fellow with the [New York City Commission On Human Rights](https://www.nyc.gov/site/cchr/index.page), focusing on AI policy and fairness in machine learning. I play [Guqin (a Chinese zither)](https://www.metmuseum.org/art/collection/search/500624). I also practise [Chinese calligraphy](https://www.metmuseum.org/essays/chinese-calligraphy).
 
 ## Contact
-- **Email:** violazhng[at]gmail.com
+- **Email:** violazhongg[at]gmail.com
 - **GitHub:** [github.com/violazhong](https://github.com/violazhong)
 - **X** [x.com/viola_zhongg](https://x.com/viola_zhongg)
 - **Substack** [substack.com/@violazhong](https://substack.com/@violazhong)
